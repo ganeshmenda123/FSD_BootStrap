@@ -1,0 +1,118 @@
+.container-fluid{
+	background-color: whitesmoke;
+	height: 600px;
+	
+}
+.card{
+	float: left;
+	height: 120px;
+	width: 300px;
+	margin: 10px;
+}
+.a{
+	float: left;
+	width: 160px;
+	color: #2267dd;
+}
+.b{
+	float: left;
+	width: 150px;
+	color: #fd9909;
+}
+i{
+	padding-top: 15px;
+	padding-left: 20px;
+	font-size: 40px;
+}
+h4{
+	text-align: right;
+}
+.x{
+	text-align:left;
+	color: red;
+}
+.y{
+	text-align:left;
+	color: green;
+}
+.{
+	text-align:left;
+	color:#fb1313;
+}
+.b{
+	float: left;
+	width: 140px;
+}
+.d{
+	float: left;
+	width: 140px;
+	color: #fd0808;
+}
+.e{
+	float: left;
+	width: 150px;
+}
+.e1{
+	color: #fd0808;
+}
+.f{
+	float: left;
+	width: 150px;
+}
+.f1{
+	color: green;
+}
+.g{
+	float: left;
+	width: 150px;
+}
+.g1{
+	color:#fb1313;
+}
+}
+.h{
+	float: left;
+	width: 40px;
+}
+.h1{
+	position: relative;
+	bottom: 60%;
+	right: 20%;
+	float: right;
+	color:#0960f6;
+}
+.i{
+	float: left;
+	width: 150px;
+	height: 60px;
+}
+.i1{
+	color:#0960f6;
+}
+progress{
+	width: 210px;
+}
+.j{
+	float: left;
+	width: 150px;
+	height: 60px;
+}
+.j1{
+	color:#fd9909;
+}
+.k{
+	float: left;
+	width: 150px;
+	height: 60px;
+}
+.k1{
+	color:#1fc78f;
+}
+.l{
+	float: left;
+	width: 150px;
+	height: 60px;
+}
+.l1{
+	color:#fd0808;
+}

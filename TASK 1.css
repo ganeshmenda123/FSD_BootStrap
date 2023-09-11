@@ -1,0 +1,30 @@
+.container{
+			border: 1px solid black;
+}
+.a{
+	height: 600px;
+	background-color: whitesmoke;
+}
+.b{
+	height: 600px;
+	background-color: whitesmoke;
+}
+.c{
+	background-color: darkslateblue;
+}
+.d{
+	text-align: center;
+}
+.e{
+	color:skyblue;
+}
+img{
+	height: 400px;
+	width: 600px;
+}
+h1{
+	margin-left: 80px;
+}
+p{
+	margin-left: 80px;
+}
